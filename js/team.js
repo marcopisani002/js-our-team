@@ -49,7 +49,24 @@ for (let i = 0; i < teamList.length; i++) {
     console.log(member.nome + " " + member.cognome + " " + " " + " " + " " + member.ruolo + " " + " " + " " + " " + member.foto);
 }
 
+// un for per ogni persona
 
+/*
+
+            <div class="col">
+
+                <div class="card" style="width: 18rem;">
+
+                    <div class="card-body " id="team-members">
+                        <div id="image2"></div>
+                        <div class="mt-3" id="nome2"></div>
+                        <div id="cognome2"> </div>
+                        <div id="ruolo2"> </div>
+                    </div>
+                </div>
+            </div>
+
+*/
 
 
 //MEMBRO N°1
