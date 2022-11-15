@@ -49,6 +49,9 @@ for (let i = 0; i < teamList.length; i++) {
     console.log(member.nome + " " + member.cognome + " " + " " + " " + " " + member.ruolo + " " + " " + " " + " " + member.foto);
 }
 
+
+
+
 //MEMBRO N°1
 
 //IMMAGINE
